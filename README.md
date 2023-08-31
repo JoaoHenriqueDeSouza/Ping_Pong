@@ -1,2 +1,2 @@
 # Ping_Pong
-Ping Pong Game
+Jogo de Ping Pong, criado e Javascript e HTML
